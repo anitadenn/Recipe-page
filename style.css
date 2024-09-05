@@ -136,7 +136,11 @@ margin-bottom: 100px;
 }
 
 
-
+@media(max-width: 700px){
+    .recipe_page{
+        width: 350px;
+    }
+}
 
 
 
