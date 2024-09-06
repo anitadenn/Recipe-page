@@ -113,7 +113,7 @@ position: relative;
 }
 
 .nutrition{
-    flex-basis: 33%;
+    flex-basis: 50%;
 }
 .nutrition h2{
     font-family: "Young Serif";
@@ -138,16 +138,38 @@ position: relative;
 
 
 @media(max-width: 700px){
+    body{
+        background-color: #fff;
+    }
     .recipe_page{
-        width: 350px;
-        margin-top: 0;
+        width: 300px;
+        margin: auto;
+        border-radius: 0;
+        padding: 30px;
+        
+        
     }
     .recipe img{
         width: 100%;
-        border-radius: 20px;
+        border-radius: 0;
+        
     }
-
+    
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
