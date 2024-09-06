@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-color: hsl(331, 38%, 87%);
+    background-color: hsl(330, 67%, 92%);
     font-family: "Outfit";
 }
 
@@ -14,8 +14,8 @@ margin: auto;
 padding: 30px;
 background-color: #fff;
 border-radius: 20px;
-margin-top: 200px;
-margin-bottom: 200px;
+margin-top: 100px;
+margin-bottom: 100px;
 position: relative;
 }
 
